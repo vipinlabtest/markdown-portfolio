@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Save Water !](https://wpvip.ted.com/wp-content/uploads/sites/2/2012/08/shutterstock_60575098.jpg)
